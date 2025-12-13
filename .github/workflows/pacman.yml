@@ -18,6 +18,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Kevin-Garzon
+          theme: github-dark
 
       - name: Push pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v3
