@@ -14,6 +14,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Developer;Web+Application+Builder;Computer+Engineering+Student;Always+learning+and+building+things+🚀"></a>
 </p>
 
+## 🟡 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Kevin-Garzon/Kevin-Garzon/output/pacman-contribution-graph.svg"
+    alt="Pacman contribution graph"
+  />
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 # 💫 About me
 <p align="justify">
 I’m a Software Engineering student and Software Developer with a strong interest in building practical, scalable, and well-structured applications. I enjoy working across both front-end and back-end, turning ideas into functional solutions through clean code and thoughtful design.
