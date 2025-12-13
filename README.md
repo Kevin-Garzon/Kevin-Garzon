@@ -14,26 +14,39 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Developer;Web+Application+Builder;Computer+Engineering+Student;Always+learning+and+building+things+🚀"></a>
 </p>
 
-## 🟡 Contribution Activity
+##  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/> Contribution Activity
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Kevin-Garzon/Kevin-Garzon/output/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Kevin-Garzon/Kevin-Garzon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Kevin-Garzon/Kevin-Garzon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/Kevin-Garzon/Kevin-Garzon/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 💫 About me
+## 💫 About me
+
 <p align="justify">
-I’m a Software Engineering student and Software Developer with a strong interest in building practical, scalable, and well-structured applications. I enjoy working across both front-end and back-end, turning ideas into functional solutions through clean code and thoughtful design.
-
-I have experience developing academic and real-world projects, where I focus on understanding the problem, designing efficient workflows, and implementing solutions using modern technologies. I’m especially interested in web development, system automation, and creating platforms that genuinely add value to users.
-
-I’m constantly learning, improving my skills, and exploring new tools and technologies. I’m open to collaboration, knowledge sharing, and opportunities that challenge me to grow as a developer and as a professional.
+I am a Software Engineering and Software Developer with a strong focus on front-end development, while being fully capable of working as a full-stack developer. I enjoy building well-structured web applications where functionality, usability, and clean design come together to create effective digital solutions.
 </p>
+
+<p align="justify">
+My experience is mainly based on academic projects, through which I have developed solid foundations in web development, UI/UX-oriented design, and internal systems. I work with technologies such as Python, Django, PHP, Laravel, Tailwind CSS, MySQL, HTML, and CSS, always aiming to write clean, maintainable code and design intuitive user interfaces.
+</p>
+
+<p align="justify">
+I am a serious, professional, and self-taught developer, characterized by being organized, detail-oriented, and collaborative. I value teamwork, clear communication, and structured workflows, as well as continuously improving both my technical and soft skills.
+</p>
+
+<p align="justify">
+I am a native Spanish speaker with an intermediate level of English, which allows me to work with technical documentation, tools, and resources in English while continuing to strengthen my language skills.
+</p>
+
 <br>
 
 
@@ -74,7 +87,7 @@ I’m constantly learning, improving my skills, and exploring new tools and tech
 
 <br>
 
-# Contact us
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Contact us
 
 <p align="left">
   <a href="https://linkedin.com/in/kevin-garzon-mazabel" target="_blank">
@@ -100,7 +113,7 @@ I’m constantly learning, improving my skills, and exploring new tools and tech
 
 <br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 | 💻 Programming Languages | 🗄️ Databases |
 |-------------------------|--------------|
@@ -118,7 +131,7 @@ I’m constantly learning, improving my skills, and exploring new tools and tech
 <br>
 
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p>
   <img 
@@ -141,4 +154,3 @@ I’m constantly learning, improving my skills, and exploring new tools and tech
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
