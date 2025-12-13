@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"   
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,13 +14,20 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate pacman contribution graph
+      - name: Generate pacman contribution graph (light)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Kevin-Garzon
-          theme: github-dark
 
-      - name: Push pacman graph to output branch
+      - name: Create dark version
+        run: |
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+          sed -i 's/#ffffff/#0d1117/g' dist/pacman-contribution-graph-dark.svg
+          sed -i 's/#ebedf0/#161b22/g' dist/pacman-contribution-graph-dark.svg
+          sed -i 's/#9be9a8/#2ea043/g' dist/pacman-contribution-graph-dark.svg
+          sed -i 's/#40c463/#2ea043/g' dist/pacman-contribution-graph-dark.svg
+
+      - name: Push pacman graphs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
