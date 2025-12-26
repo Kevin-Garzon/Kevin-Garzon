@@ -133,22 +133,23 @@ I am a native Spanish speaker with an intermediate level of English, which allow
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<p>
-  <img 
-    align="left"
+
+<p align="justify">
+  <img
     alt="Kevin Garzon GitHub Stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kevin-Garzon&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Kevin-Garzon&show_icons=true&theme=tokyonight"
+    width="420"
   />
-
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Garzon&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kevin-Garzon&theme=tokyonight&layout=compact&langs_count=9&hide_border=true&cache_seconds=86400"
+    height="200"
+    width="340"
   />
 </p>
+
+
 
 
 <br>
